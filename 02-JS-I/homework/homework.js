@@ -1,6 +1,6 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
-// Crea una variable "string", puede contener lo ques quieras:ssss
+// Crea una variable "string", puede contener lo ques quieras:sssss
 const nuevaString = null;
 
 // Crea una variable numérica, puede ser cualquier número:
